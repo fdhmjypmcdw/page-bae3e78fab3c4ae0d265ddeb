@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b0f95da105dc34a2bacfd69c",
+  "owner": "fdhmjypmcdw",
+  "repo": "page-bae3e78fab3c4ae0d265ddeb",
+  "title": "优游云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bae3e78fab3c4ae0d265ddeb",
+      "a": "优游云",
+      "b": "2027官方最新地址导航",
+      "entity": "优游云",
+      "brand": "优游云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "44ec46c5be4b3f883738f9154f89e8e6cc5a782d2460807440f455138082c51d",
+      "content": {
+        "primary_entity": "优游云",
+        "keyword1": "优游云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_HERO_SUBTITLE": "优游云，让跨境连接更从容",
+          "AI_HERO_INTRO": "优游云为跨境访问、流媒体与游戏加速提供稳定的网络通道，覆盖基础版、旗舰版与团队版三档订阅方案，按月或按年灵活选择，满足个人到团队的不同设备规模与流量需求。",
+          "AI_VISUAL_TITLE": "优游云加速方案一览",
+          "AI_HIGHLIGHT_1": "每月 100GB 起，满足轻度使用",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备在线",
+          "AI_FEATURES_TITLE": "优游云方案特点",
+          "AI_FEATURES_INTRO": "从流量、设备数量与线路类型三个维度对比优游云套餐，找到匹配使用场景的订阅。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按日常用量与峰值需求选择。",
+          "AI_FEATURE_TITLE_2": "按设备数配置",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，覆盖手机、电脑与平板等常见终端。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付适合短期试用，年付折算约十个月价格，长期使用更划算。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，订阅前先确认系统版本与客户端版本要求，按客户端文档导入订阅链接即可使用。",
+          "AI_PLANS_TITLE": "优游云套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数逐级提升。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，按步骤完成优游云的初次设置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端版本，检查是否满足订阅配置的基础条件。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_STEP_TEXT_3": "参照对应客户端的订阅导入说明，添加订阅链接并同步节点信息后开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "优游云支持哪些设备同时在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。超出设备数时可在客户端退出不用的设备。",
+          "AI_FAQ_QUESTION_2": "如何导入优游云订阅？",
+          "AI_FAQ_ANSWER_2": "在对应客户端内找到订阅或配置导入入口，粘贴订阅链接，同步节点后即可使用。不同客户端操作略有差异，以客户端文档为准。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "功能与流量规格相同，年付折算后约为十个月价格。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线并对游戏加速优化，适合对延迟敏感的游戏、会议与实时应用，同时提供全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_5": "团队版可以定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由，并配备 VIP 专属高带宽节点与专属客户经理，适合多设备、大流量的团队协作场景。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻启用",
+          "AI_CLOSING_TEXT": "对比优游云三档方案后按需订阅，跟随客户端文档完成订阅导入，即可开始稳定的跨境加速体验。",
+          "AI_DESCRIPTION": "，优游云提供基础版、旗舰版与团队版三档订阅，月付最低 ¥15，年付最低 ¥150，分别支持 3 台、5 台与 20 台设备同时在线。旗舰版搭载 IPLC 专线并优化游戏加速，团队版提供 VIP 高带宽节点与企业定制路由。按流量与设备数选定套餐后，参照客户端文档导入订阅即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vdhmelj.cn",
+    "host": "vdhmelj.cn"
+  },
+  "file_hashes": {
+    "index.html": "e23231cebcebc0a354b9af748a362edadef8951eb1e7356942c5da048b4043c7",
+    "sitemap.xml": "c8f69e0b774ec472ce45b8c1e633ffcb2220b8ad879efa769d18a114a436b04d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "50981fefb2e854f6d4bbc0f5becc95783001fcf2dd536c1124714c5ecd64f5ea",
+    "robots.txt": "55fdd618b7009a143fd98c15bfd2aa011978bda225d150c468aaa10e84f338ff",
+    "2e7c64c43c65e5c05f18bcde871ee664.txt": "109c33b142b11d485c2ba7436c2b664de8f388fe38282c2a785b8ae3248b7943"
+  },
+  "revision": "3616475ebd0f4bd47bbe9407d15797923257123c4dfe37179a5be8cbbdf23a80"
+}
